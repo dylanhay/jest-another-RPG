@@ -24,7 +24,7 @@ https://www.gnu.org/licenses/gpl-3.0
 ## Installation
 To run locally once cloned:
 * Enter `npm install` in the CLI to install the required npm packages
-* Enter `node app.js` in the CLI to launch live server
+* Enter `node app.js` in the CLI to launch the application
 
 ## Testing
 * Enter `npm test` in the CLI to run Jest
